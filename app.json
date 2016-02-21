@@ -1,0 +1,8 @@
+{
+  "name": "Knowledge Map",
+  "description": "A Spring Boot App for the knowledge map",
+  "image": "heroku/java",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
